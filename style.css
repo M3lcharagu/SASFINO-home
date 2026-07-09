@@ -119,7 +119,7 @@
   .eyebrow::before{content:''; width:26px; height:1px; background:var(--sage-light);}
   .hero h1{
     font-size:clamp(2.2rem, 5.4vw, 4.4rem); font-weight:600; letter-spacing:-0.02em;
-    max-width:550px; text-align:left; margin-bottom:16px;
+    max-width:750px; width: 100% text-align:left; margin-bottom:12px;
   }
   .hero p.sub{
     font-size:1.15rem; max-width:46ch; color:rgba(245,244,239,0.78); margin-bottom:40px; font-weight:500; text-align:left;
