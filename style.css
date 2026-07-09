@@ -104,7 +104,7 @@
 
   /* ---------- HERO ---------- */
   .hero{
-    position:relative; min-height:100vh; display:flex; align-items:flex-end;
+    position:relative; min-height:100vh; display:flex; align-items:flex-end; white-space: nowrap;
     background:linear-gradient(180deg, var(--forest-deep) 0%, #1c3327 55%, #253f2e 100%);
     color:var(--paper); overflow:hidden;
   }
